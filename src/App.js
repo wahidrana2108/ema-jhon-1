@@ -10,6 +10,8 @@ function App() {
       <header>
        <Header></Header>
        <Shop></Shop>
+
+       {/* nothing */}
       </header>
     </div>
   );
